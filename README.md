@@ -35,10 +35,15 @@ We want to inform users of this Service that these third parties have access to 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
 
 ### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
 ### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page. 
+
+### User Data Policy  
+We have created this Privacy Policy in order to demonstrate our commitment to the privacy of those who use our app.  This Privacy Policy describes our online information collection, storage and disclosure practices and the choices you have regarding how your personal information is collected and used by AllWorks.
+All Works collects personal data about you when you use our app.  “Personal Information” is information that may be used to directly or indirectly identify you, including your name, email address, physical address, phone number or other information about you. The majority of such Personal Information is collected when you register with the App, use our Services, subscribe to updates, sign up for our mailing list or otherwise provide us with your contact information.  Some of this Personal Information will be required if you wish to partake in the Services that we provide.  
+In addition we provide an email address if you wish your data to be deleted completely from our databases. This functionality will be also available within the mobile app in order for you to take action at any point during the usage of the application.
 
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
